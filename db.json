@@ -2,6 +2,7 @@
   "watchlist": [],
   "hotels": [
     {
+      "id": 1,
       "type": "A",
       "amenities": "ac, washing machine",
       "roomNumber": 11,
@@ -12,6 +13,7 @@
       "checkOutTime": "22-June-2022"
     },
     {
+      "id": 2,
       "type": "B",
       "amenities": "non ac, television",
       "roomNumber": 22,
