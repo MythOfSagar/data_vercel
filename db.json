@@ -1,4 +1,61 @@
 {
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 9.99
+    },
+    { "id": 3, "title": "1984", "author": "George Orwell", "price": 10.99 },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 7.99
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 8.99
+    },
+    {
+      "id": 6,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "price": 11.99
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 13.99
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "price": 29.99
+    },
+    {
+      "id": 9,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 8.99
+    },
+    {
+      "id": 10,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "price": 6.99
+    }
+  ],
   "watchlist": [],
   "hotels": [
     {
